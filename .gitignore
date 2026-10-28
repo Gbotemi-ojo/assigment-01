@@ -1,0 +1,10 @@
+node_modules
+.env
+.env.local
+.env.*.local
+dist
+client/dist
+server/dist
+.vercel
+*.log
+dashboard-512907-27495dea56a2.json
